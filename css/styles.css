@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Josefin+Sans&family=Monofett&family=Passion+One&display=swap');
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+    font-size: 4.5em;
+    margin-top: 0;
+    margin-right: 6px;
+    font-family: 'Bungee Shade', cursive;
+    color: #E68E36;
+}
+p{
+    color: #E68E36;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.top-container{
+    background-color: #461E52;
+    position: relative;
+    padding: 20px;
+    padding-bottom: 670px;
+    line-height: 3rem;
+}
+.middle-container{
+    background-color: #461e52ee;
+    padding-bottom: 50px;
+}
+.bottom-container{
+    background-color: #461e52e0;
+    position: relative;
+    padding: 100px;
+}
+.top-star{
+    position: relative;
+    left: 200px;
+}
+.bottom-star{
+    position: absolute;
+    left: 600px;
+}
+
+.mango{
+    width: 10%;
+}
+h2{
+    color: #DD517F;
+    font-weight: normal;
+}
+h3{
+    color: #DD517F;
+    font-weight: normal;
+}
+.subtitle{
+    font-size: 2.0rem;
+}
+.learn{
+    text-decoration: line-through;
+    color: #E68E36;
+    margin-right: 10px;
+    font-size: 2.0rem;
+}
+.sun{
+    position: absolute;
+    right: 29%;
+
+}
+.btn{
+    background: #461E52;
+    background-image: -webkit-linear-gradient(top, #461E52, #7e2399);
+    background-image: -moz-linear-gradient(top, #461E52, #7e2399);
+    background-image: -ms-linear-gradient(top, #461E52, #7e2399);
+    background-image: -o-linear-gradient(top, #461E52, #7e2399);
+    background-image: linear-gradient(to bottom, #461E52, #7e2399);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #E68E36;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.footer-link1{
+    color: #7998EE;
+    font-size: 160%;
+    position: relative;
+    right: 5%;
+    text-decoration: none;
+}
+.footer-link2{
+    color: #7998EE;
+    font-size: 160%;
+    position: relative;
+    left: 5%;
+    text-decoration: none;
+}
+.skill-row{
+    width: 50%;
+    position: relative;
+    margin: 100px auto 190px auto;
+    text-align: left;
+    line-height: 2;
+}
+.H-W{
+    width: 40%;
+    float: left;
+}
+.P-S{
+    float: right;
+    margin-right: 100px;
+}
+.skill-top-text{
+    position: relative;
+    left: 30px;
+}
+.skill-bottom-text{
+    position: relative;
+    left: 40px;
+}
+.break-1{
+    border-top: 8px dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 4%;
+    color: #556DC8;
+}
+.break-2{
+    border-top: 8px dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 4%;
+    color: #556DC8;
+    margin-top: 400px;
+    margin-bottom: 80px;
+    padding-bottom: 11%;
+}
+.intro-par{
+    margin: auto auto 100px auto;
+    width: 30%;
+}
+.skill-header{
+    margin-top: 100px;
+}
+.btn:hover{
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #c72ec7);
+    background-image: -moz-linear-gradient(top, #000000, #c72ec7);
+    background-image: -ms-linear-gradient(top, #000000, #c72ec7);
+    background-image: -o-linear-gradient(top, #000000, #c72ec7);
+    background-image: linear-gradient(to bottom, #000000, #c72ec7);
+    text-decoration: none;
+}
+.trademark{
+    margin-bottom: 0px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.basweb{
+    text-align: right;
+    padding-right: 7%;
+}
+.wow{
+    padding-bottom: 30px;
+}
+.footer-link1:hover{
+    color: #cda6d8;
+}
+.footer-link2:hover{
+    color: #cda6d8;
+}
+.talk{
+    font-size: 400%;
+    margin: 1% auto;
+}
+.games{
+    position: relative;
+    margin: 0% auto 4%;
+}
+
